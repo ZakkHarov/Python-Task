@@ -8,4 +8,4 @@ Start in console with parameters:
 3. -format - format(xml or json)
 
 Example:
-python students.py -students '.../sudents.json' -rooms '.../rooms.json' -format 'json'
+python students.py -students '.../students.json' -rooms '.../rooms.json' -format 'json'
